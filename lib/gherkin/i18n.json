@@ -567,7 +567,7 @@
 	  "scenario": "Cenário|Cenario",
 	  "scenario_outline": "Esquema do Cenário|Esquema do Cenario|Delineação do Cenário|Delineacao do Cenario",
 	  "examples": "Exemplos|Cenários|Cenarios",
-	  "given": "*|Dado|Dada|Dados|Dadas",
+	  "given": "*|Dado que|Dado|Dada|Dados|Dadas",
 	  "when": "*|Quando",
 	  "then": "*|Então|Entao",
 	  "and": "*|E",
